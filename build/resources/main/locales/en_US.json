@@ -1,0 +1,4 @@
+{
+	"label": "AWS DynamoDB",
+	"description": "Provides actions for AWS DynamoDB operations."
+}
